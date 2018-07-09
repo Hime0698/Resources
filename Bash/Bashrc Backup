@@ -3,6 +3,10 @@ date #displays date and time
 figlet Welcome Jacob! #ascii welcome message (mus install figlet)
 alias top="htop" #aliases top to htp for better to (must install htop)
 alias bashrcreload="source ~/.bashrc && echo Bash config reloaded" #reload bashrc
+alias install="sudo apt-get install" #shortcut for faster package installation
+alias update="sudo apt-get update" #shortcut for update
+alias upgrade="sudo apt-get upgrade" #shortcut for upgrade
+
 
 Other setting to remember:
   Change default terminal size to 95x34
