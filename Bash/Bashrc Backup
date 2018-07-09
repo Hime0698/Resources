@@ -1,7 +1,7 @@
 screenfetch -t #system info on terminal sart (must install screefetch)
 date #displays date and time
 figlet Welcome Jacob! #ascii welcome message (mus install figlet)
-alias initialinstall="sudo apt-get install screenfetch; sudto apt-get install htop; sudo apt-g$
+alias initialinstall="sudo apt-get install screenfetch; sudto apt-get install htop; sudo apt-get install figlet"
 alias top="htop" #aliases top to htp for better to (must install htop)
 alias reloadbashrc="source ~/.bashrc" #reload bashrc
 alias install="sudo apt-get install" #shortcut for faster package installation
