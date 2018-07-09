@@ -1,0 +1,5 @@
+screenfetch -t #system info on terminal start (must install screenfetch)
+date #displays date and time
+echo "Welcome Jacob!"
+alias top="htop" #aliases top to htop for better top (must install htop)
+
