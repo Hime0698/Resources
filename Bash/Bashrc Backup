@@ -6,3 +6,4 @@ alias bashreload="source ~/.bashrc && echo Bash config reloaded" #reload bashrc
 
 Other setting to remember:
   Change default terminal size to 95x34
+  Change background color to black
