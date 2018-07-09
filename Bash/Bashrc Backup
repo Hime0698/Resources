@@ -1,5 +1,5 @@
-screenfetch -t #system info on terminal start (must install screenfetch)
+screenfetch -t #system info on terminal sart (must install screefetch)
 date #displays date and time
-echo "Welcome Jacob!"
-alias top="htop" #aliases top to htop for better top (must install htop)
-
+figlet Welcome Jacob! #ascii welcome message (mus install figlet)
+alias top="htop" #aliases top to htp for better to (must install htop)
+alias bashreload="source ~/.bashrc && echo Bash config reloaded" #reload bashrc
