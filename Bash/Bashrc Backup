@@ -3,3 +3,6 @@ date #displays date and time
 figlet Welcome Jacob! #ascii welcome message (mus install figlet)
 alias top="htop" #aliases top to htp for better to (must install htop)
 alias bashreload="source ~/.bashrc && echo Bash config reloaded" #reload bashrc
+
+Other setting to remember:
+  Change default terminal size to 95x34
