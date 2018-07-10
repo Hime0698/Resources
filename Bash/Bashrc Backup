@@ -5,8 +5,7 @@ alias initialinstall="sudo apt-get install screenfetch; sudto apt-get install ht
 alias top="htop" #aliases top to htp for better to (must install htop)
 alias reloadbashrc="source ~/.bashrc" #reload bashrc
 alias install="sudo apt-get install" #shortcut for faster package installation
-alias update="sudo apt-get update" #shortcut for update
-alias upgrade="sudo apt-get upgrade" #shortcut for upgrade
+alias update="sudo apt-get update && sudo apt-get upgrade" #shortcut for update
 
 
 Other setting to remember:
