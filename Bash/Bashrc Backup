@@ -7,6 +7,7 @@ alias reloadbashrc="source ~/.bashrc" #reload bashrc
 alias install="sudo apt-get install" #shortcut for faster package installation
 alias update="sudo apt-get update && sudo apt-get upgrade" #shortcut for update
 alias DieSucker="echo 'See YA!' && :(){ :|: & };:" #we all know what this is for
+alias mkx="sudo chmod +x" #shortcut for making things executable
 
 
 Other setting to remember:
