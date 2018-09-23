@@ -4,10 +4,11 @@ figlet Welcome Jacob!  #ascii welcome message (must install figlet)
 alias initialinstall="install screenfetch; install htop; install figlet; install lolcat; clear; reloadbashrc"
 alias top="htop" #aliases top to htp for better to (must install htop)
 alias reloadbashrc="source ~/.bashrc" #reload bashrc
-alias install="sudo apt-get install" #shortcut for faster package installation
-alias update="sudo apt-get update && sudo apt-get upgrade" #shortcut for update
+alias install="sudo apt install" #shortcut for faster package installation
+alias update="sudo apt update && sudo apt upgrade" #shortcut for update
 alias DieSucker="echo 'See YA!' && :(){ :|: & };:" #we all know what this is for
 alias mkx="sudo chmod +x" #shortcut for making things executable
+alias GitUp="git add -A; git commit -a; git push"
 
 
 
